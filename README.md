@@ -44,14 +44,7 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
   Criação e manutenção de portais institucionais utilizando WordPress, além de prestar suporte a infraestrutura.
 - 📈 **Engenheiro de Software** @ *Terra Investimentos* (Mar/2026 - Jun/2026)
   Desenvolvimento e otimização de plataformas de fluxo de ordens, focando na modelagem de banco de dados e UI para uma melhor experiência do usuário.
-
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dandansph&theme=dracula&locale=pt_BR" height="150" alt="Estatísticas de Contribuição" />
-</div>
 
 ### 🌐 Conecte-se Comigo
 
