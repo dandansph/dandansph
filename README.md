@@ -50,10 +50,9 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dandansph&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandansph&layout=compact&theme=dracula" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dandansph&show_icons=true&theme=dracula&v=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandansph&layout=compact&theme=dracula&v=1" height="150" alt="Top Langs" />
 </div>
----
 
 ### 🌐 Conecte-se Comigo
 
