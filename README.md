@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Olá!%20Eu%20sou%20o%20Daniel%20Henrique&fontSize=40&fontAlignY=35&desc=Engenheiro%20de%20Software%20Full%20Stack%20%7C%20CTO%20%7C%20DevOps&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Daniel%20Henrique&fontSize=40&fontAlignY=35&desc=Engenheiro%20de%20Software%20Full%20Stack%20%7C%20CTO%20%7C%20DevOps&descAlignY=55&descAlign=50" />
 </div>
 
 ### 🚀 Sobre Mim
