@@ -58,6 +58,17 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>🛞 TireScan AI</h3>
+<p>Aplicação de Inteligência Artificial e Visão Computacional para análise do desgaste de pneus a partir de imagens.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" alt="Computer Vision" />
+</p>
+<a href="https://github.com/dandansph/ScannerPneuIA"><strong>Ver projeto →</strong></a>
+</td>
+
+<td width="50%" valign="top">
 <h3>🤖 IDP AI Assistant</h3>
 <p>Assistente inteligente desenvolvido durante um Hackathon para auxiliar alunos com informações acadêmicas, eventos, prazos e serviços do IDP.</p>
 <p>
@@ -66,6 +77,9 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
 </p>
 <a href="https://github.com/dandansph/idp-hackathon-2025.01"><strong>Ver projeto →</strong></a>
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 <h3>📊 Desigualdade Social vs. Criminalidade</h3>
 <p>Análise de dados socioeconômicos e criminais, investigando a relação entre desigualdade social, pobreza e criminalidade.</p>
@@ -76,8 +90,7 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
 </p>
 <a href="https://github.com/dandansph/Analise-Desigualdade-social-e-Pobreza-vs-criminalidade"><strong>Ver projeto →</strong></a>
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 <h3>🔢 Conversor de Bases com Pilha</h3>
 <p>Implementação de uma estrutura de dados do tipo <strong>Pilha (Stack)</strong> dinâmica em C, aplicada à conversão de números Decimal e Hexadecimal para Binário.</p>
@@ -87,14 +100,11 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
 </p>
 <a href="https://github.com/dandansph/Atividade-Pratica-Conversor-para-Base-Binaria"><strong>Ver projeto →</strong></a>
 </td>
-<td width="50%" valign="top">
-<h3>🚀 Mais projetos em breve</h3>
-<p>Estou constantemente desenvolvendo novos projetos para explorar diferentes tecnologias, arquiteturas e soluções de software.</p>
-</td>
 </tr>
 </table>
 
 ---
+
 
 ### 🌐 Conecte-se Comigo
 
