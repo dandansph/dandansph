@@ -100,7 +100,7 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
 
 ### 💼 Experiência Profissional
 
-* 🏎️ **Founder & CTO | Full Stack Software Engineer** @ *VRUM Performance Garage* (Jan/2025 - Atual)
+* 🏎️ **Founder & CTO | Full Stack Software Engineer** @ *VRUM Performance Garage* (Jan/2026 - Atual)
   Liderança da estratégia tecnológica, desenvolvendo apps que conectam dispositivos automotivos via BLE/OBD-II, garantindo segurança e escalabilidade com Flutter, React e Node.js.
 
 * 💻 **Desenvolvimento Web / Suporte** @ *IDP* (Jul/2025 - Atual)
