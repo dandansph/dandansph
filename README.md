@@ -13,6 +13,15 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
 
 ---
 
+<h2 align="left">📊 Minhas Estatísticas no GitHub</h2>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=dandansph&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=dandansph&layout=compact&theme=dark" />
+</p>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens:** <br/>
