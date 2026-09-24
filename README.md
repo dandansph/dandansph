@@ -20,6 +20,7 @@ Sou um futuro Engenheiro de Software estudando no **IDP** (previsão de formaç�
   <img height="165" src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=dandansph&layout=compact&theme=dark" />
 </p>
 
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
